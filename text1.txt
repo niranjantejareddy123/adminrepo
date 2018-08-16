@@ -1,6 +1,3 @@
-wednsday line
-wednesday line
- wednesday line2
- wednesday line3
 hello
-friday line
+ansible module
+
